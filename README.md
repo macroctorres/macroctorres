@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ctorres
 - 👀 I’m interested in software development with new technologies 
-- 🌱 I’m currently learning AWS, React Native, JavaScript ECS6
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS, React Native, JavaScript ECS6, Python, JS, MySQL
 - 📫 How to reach me ctorres@macrofab.com
 
 <!---
